@@ -7,7 +7,7 @@ The full mame repo is very large .. this just documents the few files necessary 
 
 The main source file change is a new machine definition that can be found in the src directory.  The other three changes are trivial and captured by screen shots.  
 
-Note that the SD Card functionality is not working.  
+Note that the SD Card functionality is not currently working.  
 
 ![Change 1](./img/change1.png)
 
